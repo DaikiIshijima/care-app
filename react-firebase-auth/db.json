@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "田中太郎",
+      "birthDate": "1915/11/04",
+      "hobbies": "散歩",
+      "otherInfo": "社長"
+    },
+    {
+      "id": 2,
+      "name": "藤本幾多郎",
+      "birthDate": "1910/07/22",
+      "hobbies": "読書",
+      "otherInfo": "先生"
+    },
+    {
+      "name": "test",
+      "birthDate": "1912/04/05",
+      "hobbies": "test",
+      "otherInfo": "test",
+      "id": 3
+    },
+    {
+      "name": "aaaa",
+      "birthDate": "2023/11/04",
+      "hobbies": "aaaa",
+      "otherInfo": "aaaa",
+      "id": 4
+    }
+  ]
+}
